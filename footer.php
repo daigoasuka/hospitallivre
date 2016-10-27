@@ -1,2 +1,4 @@
-<div align="center">Não tenho a menor ideia do que colocar aqui
+<div class="text-center text-primary">
+<br>
+	OpenSource Comunity
 </div>
